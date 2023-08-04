@@ -14,6 +14,6 @@ Simply put, customer churn occurs when **customers or subscribers stop doing bus
 
 ## About data
 
-Dataset source: https://www.kaggle.com/datasets/barun2104/telecom-churn
+Dataset source: https://www.kaggle.com/datasets/barun2104/telecom-churn.
 
 This data set contains customer level information for a telecom company. Various attributes related to the services used are recorded for each customer.
